@@ -1,0 +1,19 @@
+LocationButton.png
+size: 306, 136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LocationNotPressed
+  rotate: false
+  xy: 0, 0
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+LocationPressed
+  rotate: false
+  xy: 153, 0
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
